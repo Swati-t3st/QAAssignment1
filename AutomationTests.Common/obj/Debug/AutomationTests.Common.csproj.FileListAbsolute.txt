@@ -1,0 +1,2 @@
+C:\Users\Surabhi.Bellani\source\repos\QualiTestAssignment\AutomationTests.Common\obj\Debug\AutomationTests.Common.csproj.AssemblyReference.cache
+C:\Users\Surabhi.Bellani\source\repos\QualiTestAssignment\AutomationTests.Common\obj\Debug\AutomationTests.Common.csproj.CoreCompileInputs.cache

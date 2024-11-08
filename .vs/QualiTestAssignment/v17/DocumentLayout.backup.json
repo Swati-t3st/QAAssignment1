@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|c:\\users\\surabhi.bellani\\source\\repos\\qualitestassignment\\automationtests\\support\\specflowrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|solutionrelative:automationtests\\support\\specflowrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|c:\\users\\surabhi.bellani\\source\\repos\\qualitestassignment\\automationtests\\support\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|solutionrelative:automationtests\\support\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|c:\\users\\surabhi.bellani\\source\\repos\\qualitestassignment\\automationtests\\stepdefinitions\\weatherforecastforbournemouthstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|solutionrelative:automationtests\\stepdefinitions\\weatherforecastforbournemouthstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|c:\\users\\surabhi.bellani\\source\\repos\\qualitestassignment\\automationtests\\features\\weather.feature||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|solutionrelative:automationtests\\features\\weather.feature||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|c:\\users\\surabhi.bellani\\source\\repos\\qualitestassignment\\automationtests.helpers\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|solutionrelative:automationtests.helpers\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C634BA-2098-41ED-A6B8-4AE849B2CFAE}|AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj|C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\automationtests.webdriver\\webdriverwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C634BA-2098-41ED-A6B8-4AE849B2CFAE}|AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj|solutionrelative:automationtests.webdriver\\webdriverwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\automationtests.helpers\\interfaces\\iwebdriverwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|solutionrelative:automationtests.helpers\\interfaces\\iwebdriverwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\automationtests.helpers\\interfaces\\iwebelementwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|solutionrelative:automationtests.helpers\\interfaces\\iwebelementwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|c:\\users\\surabhi.bellani\\source\\repos\\qualitestassignment\\automationtests\\support\\containerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|solutionrelative:automationtests\\support\\containerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\automationtests.helpers\\iweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|solutionrelative:automationtests.helpers\\iweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C634BA-2098-41ED-A6B8-4AE849B2CFAE}|AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj|C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\automationtests.webdriver\\webelementwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C634BA-2098-41ED-A6B8-4AE849B2CFAE}|AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj|solutionrelative:automationtests.webdriver\\webelementwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\automationtests.helpers\\drivertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|solutionrelative:automationtests.helpers\\drivertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\QualiTestAssignment\\Features\\Weather.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QualiTestAssignment\\Features\\Weather.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C634BA-2098-41ED-A6B8-4AE849B2CFAE}|AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj|C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\automationtests.webdriver\\extension\\webdriverextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C634BA-2098-41ED-A6B8-4AE849B2CFAE}|AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj|solutionrelative:automationtests.webdriver\\extension\\webdriverextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F094A5A5-19EE-4BE6-8E84-3B3A21C08A88}|AutomationTests.Logging\\AutomationTests.Logging.csproj|C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\automationtests.logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F094A5A5-19EE-4BE6-8E84-3B3A21C08A88}|AutomationTests.Logging\\AutomationTests.Logging.csproj|solutionrelative:automationtests.logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F094A5A5-19EE-4BE6-8E84-3B3A21C08A88}|AutomationTests.Logging\\AutomationTests.Logging.csproj|C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\automationtests.logging\\loglevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F094A5A5-19EE-4BE6-8E84-3B3A21C08A88}|AutomationTests.Logging\\AutomationTests.Logging.csproj|solutionrelative:automationtests.logging\\loglevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F094A5A5-19EE-4BE6-8E84-3B3A21C08A88}|AutomationTests.Logging\\AutomationTests.Logging.csproj|C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\automationtests.logging\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F094A5A5-19EE-4BE6-8E84-3B3A21C08A88}|AutomationTests.Logging\\AutomationTests.Logging.csproj|solutionrelative:automationtests.logging\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C634BA-2098-41ED-A6B8-4AE849B2CFAE}|AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj|C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\automationtests.webdriver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C634BA-2098-41ED-A6B8-4AE849B2CFAE}|AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj|solutionrelative:automationtests.webdriver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\QualiTestAssignment\\Features\\Weather.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QualiTestAssignment\\Features\\Weather.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\QualiTestAssignment\\StepDefinitions\\WeatherStepDefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QualiTestAssignment\\StepDefinitions\\WeatherStepDefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\QualiTestAssignment\\QualiTestAssignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QualiTestAssignment\\QualiTestAssignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\CastleWindsom.SpecFlowPlugin\\ContainerConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CastleWindsom.SpecFlowPlugin\\ContainerConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Resources\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AutomationTests.Resources\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtentReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests\\Support\\ExtentReportManager.cs",
+              "RelativeDocumentMoniker": "AutomationTests\\Support\\ExtentReportManager.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests\\Support\\ExtentReportManager.cs",
+              "RelativeToolTip": "AutomationTests\\Support\\ExtentReportManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA4wBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:23:49.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weather.feature",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests\\Features\\Weather.feature",
+              "RelativeDocumentMoniker": "AutomationTests\\Features\\Weather.feature",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests\\Features\\Weather.feature",
+              "RelativeToolTip": "AutomationTests\\Features\\Weather.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-08T06:59:38.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpecflowRunner.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests\\Support\\SpecflowRunner.cs",
+              "RelativeDocumentMoniker": "AutomationTests\\Support\\SpecflowRunner.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests\\Support\\SpecflowRunner.cs*",
+              "RelativeToolTip": "AutomationTests\\Support\\SpecflowRunner.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:13:25.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastForBournemouthStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests\\StepDefinitions\\WeatherForecastForBournemouthStepDefinitions.cs",
+              "RelativeDocumentMoniker": "AutomationTests\\StepDefinitions\\WeatherForecastForBournemouthStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests\\StepDefinitions\\WeatherForecastForBournemouthStepDefinitions.cs",
+              "RelativeToolTip": "AutomationTests\\StepDefinitions\\WeatherForecastForBournemouthStepDefinitions.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA2wBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:16:39.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weather.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Helpers\\Weather.cs",
+              "RelativeDocumentMoniker": "AutomationTests.Helpers\\Weather.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Helpers\\Weather.cs",
+              "RelativeToolTip": "AutomationTests.Helpers\\Weather.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAIA6wDMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:15:57.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebDriverWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.WebDriver\\WebDriverWrapper.cs",
+              "RelativeDocumentMoniker": "AutomationTests.WebDriver\\WebDriverWrapper.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.WebDriver\\WebDriverWrapper.cs",
+              "RelativeToolTip": "AutomationTests.WebDriver\\WebDriverWrapper.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAawBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:03:36.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IWebElementWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Helpers\\Interfaces\\IWebElementWrapper.cs",
+              "RelativeDocumentMoniker": "AutomationTests.Helpers\\Interfaces\\IWebElementWrapper.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Helpers\\Interfaces\\IWebElementWrapper.cs",
+              "RelativeToolTip": "AutomationTests.Helpers\\Interfaces\\IWebElementWrapper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:55:24.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContainerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests\\Support\\ContainerConfig.cs",
+              "RelativeDocumentMoniker": "AutomationTests\\Support\\ContainerConfig.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests\\Support\\ContainerConfig.cs",
+              "RelativeToolTip": "AutomationTests\\Support\\ContainerConfig.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:16:45.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Weather.feature",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\QualiTestAssignment\\Features\\Weather.feature",
+              "RelativeDocumentMoniker": "QualiTestAssignment\\Features\\Weather.feature",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\QualiTestAssignment\\Features\\Weather.feature",
+              "RelativeToolTip": "QualiTestAssignment\\Features\\Weather.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-07T08:19:14.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Weather.feature.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\QualiTestAssignment\\Features\\Weather.feature.cs",
+              "RelativeDocumentMoniker": "QualiTestAssignment\\Features\\Weather.feature.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\QualiTestAssignment\\Features\\Weather.feature.cs",
+              "RelativeToolTip": "QualiTestAssignment\\Features\\Weather.feature.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAMBdwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:24:46.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\QualiTestAssignment\\StepDefinitions\\WeatherStepDefinitions.cs",
+              "RelativeDocumentMoniker": "QualiTestAssignment\\StepDefinitions\\WeatherStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\QualiTestAssignment\\StepDefinitions\\WeatherStepDefinitions.cs",
+              "RelativeToolTip": "QualiTestAssignment\\StepDefinitions\\WeatherStepDefinitions.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:20:31.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QualiTestAssignment.csproj",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\QualiTestAssignment\\QualiTestAssignment.csproj",
+              "RelativeDocumentMoniker": "QualiTestAssignment\\QualiTestAssignment.csproj",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\QualiTestAssignment\\QualiTestAssignment.csproj",
+              "RelativeToolTip": "QualiTestAssignment\\QualiTestAssignment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T10:42:03.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ContainerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\CastleWindsom.SpecFlowPlugin\\ContainerConfig.cs",
+              "RelativeDocumentMoniker": "CastleWindsom.SpecFlowPlugin\\ContainerConfig.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\CastleWindsom.SpecFlowPlugin\\ContainerConfig.cs",
+              "RelativeToolTip": "CastleWindsom.SpecFlowPlugin\\ContainerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:33:17.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Resources\\Program.cs",
+              "RelativeDocumentMoniker": "AutomationTests.Resources\\Program.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Resources\\Program.cs",
+              "RelativeToolTip": "AutomationTests.Resources\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:35:58.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IWeather.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Helpers\\IWeather.cs",
+              "RelativeDocumentMoniker": "AutomationTests.Helpers\\IWeather.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Helpers\\IWeather.cs",
+              "RelativeToolTip": "AutomationTests.Helpers\\IWeather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:16:19.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWebDriverWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Helpers\\Interfaces\\IWebDriverWrapper.cs",
+              "RelativeDocumentMoniker": "AutomationTests.Helpers\\Interfaces\\IWebDriverWrapper.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Helpers\\Interfaces\\IWebDriverWrapper.cs",
+              "RelativeToolTip": "AutomationTests.Helpers\\Interfaces\\IWebDriverWrapper.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAnwBoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:55:43.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebElementWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.WebDriver\\WebElementWrapper.cs",
+              "RelativeDocumentMoniker": "AutomationTests.WebDriver\\WebElementWrapper.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.WebDriver\\WebElementWrapper.cs",
+              "RelativeToolTip": "AutomationTests.WebDriver\\WebElementWrapper.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:35:16.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DriverType.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Helpers\\DriverType.cs",
+              "RelativeDocumentMoniker": "AutomationTests.Helpers\\DriverType.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Helpers\\DriverType.cs",
+              "RelativeToolTip": "AutomationTests.Helpers\\DriverType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:20:50.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebDriverExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.WebDriver\\Extension\\WebDriverExtensions.cs",
+              "RelativeDocumentMoniker": "AutomationTests.WebDriver\\Extension\\WebDriverExtensions.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.WebDriver\\Extension\\WebDriverExtensions.cs",
+              "RelativeToolTip": "AutomationTests.WebDriver\\Extension\\WebDriverExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:26:16.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Logging\\Logger.cs",
+              "RelativeDocumentMoniker": "AutomationTests.Logging\\Logger.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Logging\\Logger.cs",
+              "RelativeToolTip": "AutomationTests.Logging\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:22:44.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Logging\\ILogger.cs",
+              "RelativeDocumentMoniker": "AutomationTests.Logging\\ILogger.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Logging\\ILogger.cs",
+              "RelativeToolTip": "AutomationTests.Logging\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:49:08.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LogLevel.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Logging\\LogLevel.cs",
+              "RelativeDocumentMoniker": "AutomationTests.Logging\\LogLevel.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.Logging\\LogLevel.cs",
+              "RelativeToolTip": "AutomationTests.Logging\\LogLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:31:16.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.WebDriver\\Program.cs",
+              "RelativeDocumentMoniker": "AutomationTests.WebDriver\\Program.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualiTestAssignment\\AutomationTests.WebDriver\\Program.cs",
+              "RelativeToolTip": "AutomationTests.WebDriver\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:32:34.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Surabhi.Bellani\source\repos\QualiTestAssignment\CastleWindsom.SpecFlowPlugin\bin\Debug\CastleWindsom.SpecFlowPlugin.exe.config
+C:\Users\Surabhi.Bellani\source\repos\QualiTestAssignment\CastleWindsom.SpecFlowPlugin\bin\Debug\CastleWindsom.SpecFlowPlugin.exe
+C:\Users\Surabhi.Bellani\source\repos\QualiTestAssignment\CastleWindsom.SpecFlowPlugin\bin\Debug\CastleWindsom.SpecFlowPlugin.pdb
+C:\Users\Surabhi.Bellani\source\repos\QualiTestAssignment\CastleWindsom.SpecFlowPlugin\obj\Debug\CastleWindsom.SpecFlowPlugin.csproj.AssemblyReference.cache
+C:\Users\Surabhi.Bellani\source\repos\QualiTestAssignment\CastleWindsom.SpecFlowPlugin\obj\Debug\CastleWindsom.SpecFlowPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Surabhi.Bellani\source\repos\QualiTestAssignment\CastleWindsom.SpecFlowPlugin\obj\Debug\CastleWindsom.SpecFlowPlugin.exe
+C:\Users\Surabhi.Bellani\source\repos\QualiTestAssignment\CastleWindsom.SpecFlowPlugin\obj\Debug\CastleWindsom.SpecFlowPlugin.pdb

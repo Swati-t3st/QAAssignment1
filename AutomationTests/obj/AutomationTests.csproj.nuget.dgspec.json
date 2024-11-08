@@ -1,0 +1,163 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests\\AutomationTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj",
+        "projectName": "AutomationTests.Helpers",
+        "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Logging\\AutomationTests.Logging.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Logging\\AutomationTests.Logging.csproj",
+        "projectName": "AutomationTests.Logging",
+        "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Logging\\AutomationTests.Logging.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj": {
+                "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj",
+        "projectName": "AutomationTests.WebDriver",
+        "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj": {
+                "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj"
+              },
+              "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Logging\\AutomationTests.Logging.csproj": {
+                "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Logging\\AutomationTests.Logging.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests\\AutomationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests\\AutomationTests.csproj",
+        "projectName": "AutomationTests",
+        "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests\\AutomationTests.csproj",
+        "packagesPath": "C:\\Users\\Surabhi.Bellani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Surabhi.Bellani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj": {
+                "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "BoDi": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "ExtentReports": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.26.1, )"
+            },
+            "SolidToken.SpecFlow.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.9.3, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.40, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.9.57, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
