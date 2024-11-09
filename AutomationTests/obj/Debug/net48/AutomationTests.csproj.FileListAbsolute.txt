@@ -94,3 +94,11 @@ C:\Users\Surabhi.Bellani\source\repos\QualitestAssignment\AutomationTests\obj\De
 C:\Users\Surabhi.Bellani\source\repos\QualitestAssignment\AutomationTests\obj\Debug\net48\Automati.E58382D1.Up2Date
 C:\Users\Surabhi.Bellani\source\repos\QualitestAssignment\AutomationTests\obj\Debug\net48\AutomationTests.dll
 C:\Users\Surabhi.Bellani\source\repos\QualitestAssignment\AutomationTests\obj\Debug\net48\AutomationTests.pdb
+C:\Users\Surabhi.Bellani\source\repos\TestAssignment\AutomationTests\obj\Debug\net48\AutomationTests.csproj.AssemblyReference.cache
+C:\Users\Surabhi.Bellani\source\repos\TestAssignment\AutomationTests\obj\Debug\net48\AutomationTests.csproj.SuggestedBindingRedirects.cache
+C:\Users\Surabhi.Bellani\source\repos\TestAssignment\AutomationTests\obj\Debug\net48\AutomationTests.dll.config
+C:\Users\Surabhi.Bellani\source\repos\TestAssignment\AutomationTests\obj\Debug\net48\AutomationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Surabhi.Bellani\source\repos\TestAssignment\AutomationTests\obj\Debug\net48\AutomationTests.AssemblyInfoInputs.cache
+C:\Users\Surabhi.Bellani\source\repos\TestAssignment\AutomationTests\obj\Debug\net48\AutomationTests.AssemblyInfo.cs
+C:\Users\Surabhi.Bellani\source\repos\TestAssignment\AutomationTests\obj\Debug\net48\AutomationTests.csproj.CoreCompileInputs.cache
+C:\Users\Surabhi.Bellani\source\repos\TestAssignment\AutomationTests\obj\Debug\net48\AutomationTests.sourcelink.json

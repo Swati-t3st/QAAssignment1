@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|c:\\users\\surabhi.bellani\\source\\repos\\testassignment\\automationtests\\features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|solutionrelative:automationtests\\features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|c:\\users\\surabhi.bellani\\source\\repos\\testassignment\\automationtests\\stepdefinitions\\loginstepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|solutionrelative:automationtests\\stepdefinitions\\loginstepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|c:\\users\\surabhi.bellani\\source\\repos\\testassignment\\automationtests.helpers\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|solutionrelative:automationtests.helpers\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|c:\\users\\surabhi.bellani\\source\\repos\\testassignment\\automationtests.helpers\\pageobjects\\iloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|solutionrelative:automationtests.helpers\\pageobjects\\iloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|c:\\users\\surabhi.bellani\\source\\repos\\testassignment\\automationtests.helpers\\pageobjects\\accountcreationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|solutionrelative:automationtests.helpers\\pageobjects\\accountcreationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|c:\\users\\surabhi.bellani\\source\\repos\\testassignment\\automationtests.helpers\\pageobjects\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF55CAE8-984B-45C4-AB71-F4BFEEE8CD96}|AutomationTests.Helpers\\AutomationTests.Helpers.csproj|solutionrelative:automationtests.helpers\\pageobjects\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|c:\\users\\surabhi.bellani\\source\\repos\\testassignment\\automationtests\\stepdefinitions\\registrationstepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|solutionrelative:automationtests\\stepdefinitions\\registrationstepdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|c:\\users\\surabhi.bellani\\source\\repos\\testassignment\\automationtests\\support\\containerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|solutionrelative:automationtests\\support\\containerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|c:\\users\\surabhi.bellani\\source\\repos\\testassignment\\automationtests\\support\\specflowrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|solutionrelative:automationtests\\support\\specflowrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|c:\\users\\surabhi.bellani\\source\\repos\\testassignment\\automationtests\\features\\registration.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E1620627-8812-4D1C-8E65-B523BA04EA16}|AutomationTests\\AutomationTests.csproj|solutionrelative:automationtests\\features\\registration.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Helpers\\PageObjects\\ILoginPage.cs",
+              "RelativeDocumentMoniker": "AutomationTests.Helpers\\PageObjects\\ILoginPage.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Helpers\\PageObjects\\ILoginPage.cs",
+              "RelativeToolTip": "AutomationTests.Helpers\\PageObjects\\ILoginPage.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:30:02.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Helpers\\PageObjects\\LoginPage.cs",
+              "RelativeDocumentMoniker": "AutomationTests.Helpers\\PageObjects\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Helpers\\PageObjects\\LoginPage.cs",
+              "RelativeToolTip": "AutomationTests.Helpers\\PageObjects\\LoginPage.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:29:42.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountCreationPage.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Helpers\\PageObjects\\AccountCreationPage.cs",
+              "RelativeDocumentMoniker": "AutomationTests.Helpers\\PageObjects\\AccountCreationPage.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Helpers\\PageObjects\\AccountCreationPage.cs",
+              "RelativeToolTip": "AutomationTests.Helpers\\PageObjects\\AccountCreationPage.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:45:25.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Helpers\\PageObjects\\IAccount.cs",
+              "RelativeDocumentMoniker": "AutomationTests.Helpers\\PageObjects\\IAccount.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Helpers\\PageObjects\\IAccount.cs",
+              "RelativeToolTip": "AutomationTests.Helpers\\PageObjects\\IAccount.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:44:28.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrationStepDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\StepDefinitions\\RegistrationStepDefinition.cs",
+              "RelativeDocumentMoniker": "AutomationTests\\StepDefinitions\\RegistrationStepDefinition.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\StepDefinitions\\RegistrationStepDefinition.cs",
+              "RelativeToolTip": "AutomationTests\\StepDefinitions\\RegistrationStepDefinition.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:43:53.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginStepDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\StepDefinitions\\LoginStepDefinition.cs",
+              "RelativeDocumentMoniker": "AutomationTests\\StepDefinitions\\LoginStepDefinition.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\StepDefinitions\\LoginStepDefinition.cs",
+              "RelativeToolTip": "AutomationTests\\StepDefinitions\\LoginStepDefinition.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:34:53.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.feature",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\Features\\Login.feature",
+              "RelativeDocumentMoniker": "AutomationTests\\Features\\Login.feature",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\Features\\Login.feature",
+              "RelativeToolTip": "AutomationTests\\Features\\Login.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-08T17:34:10.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContainerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\Support\\ContainerConfig.cs",
+              "RelativeDocumentMoniker": "AutomationTests\\Support\\ContainerConfig.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\Support\\ContainerConfig.cs",
+              "RelativeToolTip": "AutomationTests\\Support\\ContainerConfig.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:57:56.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpecflowRunner.cs",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\Support\\SpecflowRunner.cs",
+              "RelativeDocumentMoniker": "AutomationTests\\Support\\SpecflowRunner.cs",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\Support\\SpecflowRunner.cs",
+              "RelativeToolTip": "AutomationTests\\Support\\SpecflowRunner.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:46:52.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Registration.feature",
+              "DocumentMoniker": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\Features\\Registration.feature",
+              "RelativeDocumentMoniker": "AutomationTests\\Features\\Registration.feature",
+              "ToolTip": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\Features\\Registration.feature",
+              "RelativeToolTip": "AutomationTests\\Features\\Registration.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABYAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-08T17:29:09.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

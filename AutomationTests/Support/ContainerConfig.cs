@@ -1,4 +1,5 @@
 ﻿using AutomationTests.Helpers;
+using AutomationTests.Helpers.PageObjects;
 using AutomationTests.Logging;
 using AutomationTests.Support;
 using AutomationTests.WebDriver.Interfaces;
@@ -12,8 +13,8 @@ namespace CastleWindsom.SpecFlowPlugin
         {
             var services = new ServiceCollection();
             services.AddSingleton<IWebDriverWrapper, WebDriverWrapper>();
-            services.AddTransient<IWebElementWrapper, WebElementWrapper>();
-            services.AddTransient<IWeather, WeatherPage>();
+            services.AddTransient<IAccount, AccountPage>();
+            services.AddTransient<ILoginPage, LoginPage>();
 
             services.AddSingleton(new DriverConfig
             {

@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests\\AutomationTests.csproj": {}
+    "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\AutomationTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj": {
+    "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj",
+        "projectUniqueName": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj",
         "projectName": "AutomationTests.Helpers",
-        "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj",
+        "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}
@@ -19,16 +19,16 @@
         "net48": {}
       }
     },
-    "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Logging\\AutomationTests.Logging.csproj": {
+    "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Logging\\AutomationTests.Logging.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Logging\\AutomationTests.Logging.csproj",
+        "projectUniqueName": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Logging\\AutomationTests.Logging.csproj",
         "projectName": "AutomationTests.Logging",
-        "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Logging\\AutomationTests.Logging.csproj",
+        "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Logging\\AutomationTests.Logging.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj": {
-                "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj"
+              "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj": {
+                "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj"
               }
             }
           }
@@ -38,19 +38,19 @@
         "net48": {}
       }
     },
-    "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj": {
+    "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj",
+        "projectUniqueName": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj",
         "projectName": "AutomationTests.WebDriver",
-        "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj",
+        "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj": {
-                "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj"
+              "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj": {
+                "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Helpers\\AutomationTests.Helpers.csproj"
               },
-              "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Logging\\AutomationTests.Logging.csproj": {
-                "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.Logging\\AutomationTests.Logging.csproj"
+              "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Logging\\AutomationTests.Logging.csproj": {
+                "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.Logging\\AutomationTests.Logging.csproj"
               }
             }
           }
@@ -60,14 +60,14 @@
         "net48": {}
       }
     },
-    "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests\\AutomationTests.csproj": {
+    "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\AutomationTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests\\AutomationTests.csproj",
+        "projectUniqueName": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\AutomationTests.csproj",
         "projectName": "AutomationTests",
-        "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests\\AutomationTests.csproj",
+        "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\AutomationTests.csproj",
         "packagesPath": "C:\\Users\\Surabhi.Bellani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests\\obj\\",
+        "outputPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -89,8 +89,8 @@
           "net48": {
             "targetAlias": "net48",
             "projectReferences": {
-              "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj": {
-                "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj"
+              "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj": {
+                "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj"
               }
             }
           }

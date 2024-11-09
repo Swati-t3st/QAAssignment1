@@ -50,7 +50,6 @@ namespace AutomationTests.Helpers.Runner
                 _objectContainer.RegisterInstanceAs(service);
             }
 
-            _driverWrapper.Navigate("https://bbc.co.uk/weather");
             ExtentReportManager.CreateScenario(scenarioContext.ScenarioInfo.Title);
         }
 

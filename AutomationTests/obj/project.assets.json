@@ -2587,11 +2587,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests\\AutomationTests.csproj",
+      "projectUniqueName": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\AutomationTests.csproj",
       "projectName": "AutomationTests",
-      "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests\\AutomationTests.csproj",
+      "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\AutomationTests.csproj",
       "packagesPath": "C:\\Users\\Surabhi.Bellani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests\\obj\\",
+      "outputPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2613,8 +2613,8 @@
         "net48": {
           "targetAlias": "net48",
           "projectReferences": {
-            "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj": {
-              "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\QualitestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj"
+            "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj": {
+              "projectPath": "C:\\Users\\Surabhi.Bellani\\source\\repos\\TestAssignment\\AutomationTests.WebDriver\\AutomationTests.WebDriver.csproj"
             }
           }
         }
